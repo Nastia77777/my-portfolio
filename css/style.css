@@ -243,11 +243,11 @@ section{
     width: 20vw;
     border-radius: 1rem;
 }
-.project-card:hover.btn{
+.project-card:hover .btn{
     border: 2px solid white;
     color: white;
 }
-.project-card:hover.btn:hover{
+.project-card:hover .btn:hover{
     border: 2px solid white;
     background-color: white;
     color: black;
